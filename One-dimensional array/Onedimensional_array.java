@@ -1,6 +1,6 @@
 package ArrayList;
 
-public class One-dimensional_array {
+public class Onedimensional_array {
      public static void main(String[] args) {
         
         //רשימות מערך לא דימיות - צריך להגדיר את גודל הרשימה
